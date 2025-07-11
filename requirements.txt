@@ -1,4 +1,5 @@
+tensorflow
+numpy
 gradio
-transformers
 torch
-Pillow
+transformers
