@@ -4,7 +4,7 @@
 An AI-powered web tool for automated detection of **Tuberculosis (TB)** from chest X-ray images using a fine-tuned **Vision Transformer (ViT)** model. Built with Gradio for ease of use and deployment.
 
 Developed by **Jitendra Prajapat**  
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile) • [Email](mailto:your.email@example.com)
+[GitHub](https://github.com/jitsa007) • [LinkedIn](https://linkedin.com/in/jitsa00) • [Email](mailto:jps007@ymail.com)
 
 ---
 
@@ -59,7 +59,7 @@ tb-detection-ai-ml/
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/tb-detection-ai-ml.git
+git clone https://github.com/jitsa007/tb-detection-ai-ml.git
 cd tb-detection-ai-ml
 ```
 
@@ -99,7 +99,6 @@ Upload an X-ray image and receive classification output with confidence scores.
 
 ## 📷 Screenshots
 
-> *(Add your app screenshots here if available)*
 
 ---
 
@@ -135,4 +134,4 @@ Professor | AI/ML Researcher | Developer | Motivational Speaker
 
 ## 📬 Feedback or Contributions?
 
-Feel free to [open issues](https://github.com/your-username/tb-detection-ai-ml/issues), contribute, or reach out for collaboration!
+Feel free to [open issues](https://github.com/jitsa007/tb-detection-ai-ml/issues), contribute, or reach out for collaboration!
